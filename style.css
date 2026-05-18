@@ -162,10 +162,10 @@ body {
     color: var(--color-text-pink);
 }
 
-.title .hat{
+.title .hat {
     position: absolute;
-    right: 80px;
-    top: -450px;
+    right: 55px;
+    top: -355px;
     transform: rotate(-40deg);
     z-index: -1;
     animation: topHat 4s 7s forwards ease;
