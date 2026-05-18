@@ -164,7 +164,7 @@ body {
 
 .title .hat{
     position: absolute;
-    left: 40px;
+    right: 40px;
     top: -350px;
     transform: rotate(-40deg);
     z-index: -1;
