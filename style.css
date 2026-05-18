@@ -164,8 +164,8 @@ body {
 
 .title .hat{
     position: absolute;
-    right: 80px;
-    top: -450px;
+    right: 60px;
+    top: -350px;
     transform: rotate(-40deg);
     z-index: -1;
     animation: topHat 4s 7s forwards ease;
